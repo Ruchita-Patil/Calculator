@@ -1,5 +1,6 @@
 # Calculator
 Calculator includes Dark and Light mode built using HTML,CSS, JavaScript.
+
 Watch it live: https://ruchita-patil.github.io/Calculator/
 
 Screenshots:
